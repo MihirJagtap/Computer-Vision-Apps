@@ -43,6 +43,8 @@ hough_threshold if you did not use the standard threshold method.
 Run the runHw2.m file in MATLAB
 ```
 
+# Additional Notes:
+
 constraints: |rho| <= Image Diagonal
              0 <= theta < pi
 
