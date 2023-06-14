@@ -37,6 +37,12 @@ correspond to the line segments from the original image (i.e., not infinite). Br
 explain your algorithm in the README. Again, you can assign zero to
 hough_threshold if you did not use the standard threshold method.
 
+# Run 
+
+```
+Run the runHw2.m file in MATLAB
+```
+
 constraints: |rho| <= Image Diagonal
              0 <= theta < pi
 
