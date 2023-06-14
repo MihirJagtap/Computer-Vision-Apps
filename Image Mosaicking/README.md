@@ -1,6 +1,6 @@
-Challenge 1e:
 
-For this challenge, I have manually clicked 3 photos to be blended so 
+
+I have manually clicked 3 photos to be blended so 
 that a panaroma can be made. As the images were taken by hand, I tried to
 go as Professor had instructed about clicking panaromas. 
 
