@@ -1,5 +1,3 @@
-Challenge1b: 
-
 constraints: |rho| <= Image Diagonal
              0 <= theta < pi
 
@@ -17,7 +15,6 @@ for every line in image space there is point on parameter space.
 By the above algorithm, the waves by a single point on a straight line 
 (in image space) cocncentrate on a single point which is our hough peak. 
 
-Challenge1c:
 
 I iterate through the number of rho and theta, and find which 
 combination (in the accumulator array) gives greater value than 
@@ -38,7 +35,6 @@ coordinate system, strong_hough_img(i,j) is e
 qual to the 
 max(max(strong_hough_img(i-5:i+5, j-5:j+5))) 
 
-Challenge1d:
 
 Having the approach same as line finder, in this line segment function
 I am trying to create a segment by comapring a particular points neighbour
